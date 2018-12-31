@@ -8,11 +8,11 @@ This is a real-time face recognition program using openCV written in Python. Fac
   
     <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.6807&rep=rep1&type=pdf">Rapid Object Detection using a Boosted Cascade of Simple Features</a>
     
-    - Constantine P. Papageorgiou et al, 1998
+  - Constantine P. Papageorgiou et al, 1998
     
     <a href="https://www.researchgate.net/publication/3766402_General_framework_for_object_detection">A General Framework for Object Detection</a>
     
-    - Kinh Tieu & Paul Viola, 2000
+  - Kinh Tieu & Paul Viola, 2000
     
     <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.2419&rep=rep1&type=pdf">Boosting Image Retrieval</a>
     
