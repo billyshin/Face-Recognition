@@ -1,7 +1,13 @@
 # Face-Recognition
 
 ## Description:
-This is a real-time face recognition program using haarcascade_eye.xml and haarcascade_frontalface_default.xml classifier in openCV written in Python. Face is detected via webcam.
+This is a real-time face recognition program using 
+
+    - haarcascade_eye.xml 
+    - haarcascade_frontalface_default.xml 
+    
+classifiers in openCV written in Python.
+Face is detected via webcam.
 
 ## Related Readings:
   - Paul Viola & Michael Jones, 2001
