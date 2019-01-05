@@ -45,3 +45,12 @@ Face is detected via webcam.
         - Do some colour transformations by calling function cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         - Get the output of our detect function
         - Display the outputs
+
+## Useage:
+
+        # for face recognition
+        python main.py
+        
+        # for smile detection
+        python smile_recognition.py
+        
